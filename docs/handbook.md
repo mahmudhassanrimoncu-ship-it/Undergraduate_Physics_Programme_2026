@@ -78,6 +78,8 @@ Between semesters there is a 1-week break (after Spring and Summer) and a 2-week
 
 You have chosen 18–22 hours per week, which means three courses per semester at about 6–7 hours each.
 
+**Timetable.** Every term has a fixed weekly class timetable, like a university's, in [semesters/timetables/](../semesters/timetables/). Each theory course has 2 × 80-minute lectures and 1 recitation (problem class) per week. CMP courses have 1 lecture and 1 lab. Tutorials and office hours are at the weekend. You can attend a slot live with the instructor at its scheduled time or later that day or week (see [lectures/README.md](../lectures/README.md)). The Orientation Term and S1 timetables are ready. The timetable for each later semester is issued at least **two weeks before** it starts, so it can fit around your CSE timetable for that term.
+
 A typical week for one **theory course**:
 
 | Activity | Time |
@@ -170,3 +172,4 @@ The full rules are in [assessment-and-grading.md](assessment-and-grading.md). In
 | Date | Change |
 |---|---|
 | 2026-10-20 | v1.0 created. Load fixed at 18–22 h/week (3 courses per semester) by Rimon's choice |
+| 2026-10-20 | v1.1: added weekly class timetables (Orientation and S1, Bangladesh time) and live lectures on request; repo default branch is now `main` |

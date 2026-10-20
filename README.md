@@ -37,6 +37,8 @@ The full map, the prerequisite graph and the course-by-course mapping to each un
 | [docs/assessment-and-grading.md](docs/assessment-and-grading.md) | How each course is passed: weightings, grade scale, GPA, resits, annual exams, viva, thesis, degree classification |
 | [docs/library.md](docs/library.md) | The librarian's list: textbooks, lecture series, problem books, videos and websites, by subject |
 | [docs/source-verification.md](docs/source-verification.md) | What the five uploaded syllabuses are, whether they are official and current, and the better official sources |
+| [semesters/timetables/](semesters/timetables/) | **Class timetables**: weekly slots plus a dated lecture-by-lecture calendar (Orientation and S1 are ready) |
+| [lectures/](lectures/) | How live lectures work. Your lecture notes are saved here |
 | [semesters/](semesters/) | One file per semester with the full syllabus of each course: topics, sources, assessment, and for Year 1 a week-by-week schedule |
 | [records/](records/) | Transcript and gradebook (filled in as grades are awarded) |
 | [templates/](templates/) | Templates for problem sets, lab reports and papers |
@@ -45,5 +47,5 @@ The full map, the prerequisite graph and the course-by-course mapping to each un
 ## How to start
 
 1. Read the [Handbook](docs/handbook.md). It takes 20 minutes.
-2. Orientation Term starts **Mon 2 Nov 2026**. Its syllabus is [semesters/S00-orientation-2026.md](semesters/S00-orientation-2026.md). Week 1 is the diagnostic exams, which decide whether you can test out of any Year 1 maths or computing course.
+2. Orientation Term starts **Mon 2 Nov 2026**. Its syllabus is [semesters/S00-orientation-2026.md](semesters/S00-orientation-2026.md) and its class timetable is [S00-orientation-timetable.md](semesters/timetables/S00-orientation-timetable.md). Week 1 is the diagnostic exams, which decide whether you can test out of any Year 1 maths or computing course.
 3. Buy or borrow the Year 1 core texts and the home-lab kit (see the [Library](docs/library.md)).
