@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.out
+*.toc
+booklet.tex
+booklet.pdf
+__pycache__/

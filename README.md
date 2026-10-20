@@ -32,6 +32,7 @@ The full map, the prerequisite graph and the course-by-course mapping to each un
 
 | Path | What it is |
 |---|---|
+| [docs/Physics-Programme-Booklet.pdf](docs/Physics-Programme-Booklet.pdf) | **Printable information booklet** (93 pages, A4, print double-sided): rules, outcomes, curriculum at a glance, every course outline, options and electives, and the class routine. Rebuilt from [tools/booklet/](tools/booklet/) |
 | [docs/handbook.md](docs/handbook.md) | **Programme Handbook.** How the programme runs: calendar, weekly rhythm, roles, tutorials, submissions, honour code, progression rules |
 | [docs/curriculum-map.md](docs/curriculum-map.md) | Semester-by-semester plan, prerequisite graph, university equivalences, major options and electives |
 | [docs/assessment-and-grading.md](docs/assessment-and-grading.md) | How each course is passed: weightings, grade scale, GPA, resits, annual exams, viva, thesis, degree classification |
@@ -46,6 +47,6 @@ The full map, the prerequisite graph and the course-by-course mapping to each un
 
 ## How to start
 
-1. Read the [Handbook](docs/handbook.md). It takes 20 minutes.
+1. Read the [Handbook](docs/handbook.md). It takes 20 minutes. For a printed copy of everything, use the [programme booklet PDF](docs/Physics-Programme-Booklet.pdf).
 2. Orientation Term starts **Mon 2 Nov 2026**. Its syllabus is [semesters/S00-orientation-2026.md](semesters/S00-orientation-2026.md) and its class timetable is [S00-orientation-timetable.md](semesters/timetables/S00-orientation-timetable.md). Week 1 is the diagnostic exams, which decide whether you can test out of any Year 1 maths or computing course.
 3. Buy or borrow the Year 1 core texts and the home-lab kit (see the [Library](docs/library.md)).

@@ -173,3 +173,4 @@ The full rules are in [assessment-and-grading.md](assessment-and-grading.md). In
 |---|---|
 | 2026-10-20 | v1.0 created. Load fixed at 18–22 h/week (3 courses per semester) by Rimon's choice |
 | 2026-10-20 | v1.1: added weekly class timetables (Orientation and S1, Bangladesh time) and live lectures on request; repo default branch is now `main` |
+| 2026-10-20 | v1.2: added the printable programme booklet ([Physics-Programme-Booklet.pdf](Physics-Programme-Booklet.pdf)), laid out like the CU CSE information booklet, with course learning outcomes (CLOs) mapped to programme learning outcomes (PLOs) |
