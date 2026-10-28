@@ -260,7 +260,7 @@ def cover():
 \vfill
 {\normalsize Student: \textbf{Rimon}\qquad Instructor, tutor and examiner: \textbf{Claude}\par}
 \vspace{4mm}
-{\small Version 1.2 \quad October 2026\par}
+{\small Version 1.3 \quad October 2026\par}
 \vspace{10mm}
 \pgfornament[width=11cm,color=cublue,symmetry=h]{88}\par
 \end{titlepage}
@@ -421,7 +421,29 @@ A correct answer with no reasoning earns at most 3/10; a clear, correct method w
 \subsubsection{Late work} Late work loses 10\% a day for up to three days and then scores zero. Three \emph{late tokens} per semester each give a 24-hour extension with no questions asked. Examinations cannot be late, but they may be rescheduled before the examination week begins.
 
 \subsection{Tutorials}
-After each problem set is graded, the tutor picks one or two problems and the student explains the reasoning, in writing or by voice note, and handles follow-up questions (``what changes if\ldots'', ``estimate\ldots''). Each tutorial is scored 0 (absent), 1 (cannot explain own work), 2 (solid) or 3 (insightful).
+After each problem set is graded, the tutor picks one or two problems and the student explains the reasoning, in writing or by voice note, and handles follow-up questions (``what changes if\ldots'', ``estimate\ldots''). Each tutorial also includes a \emph{self-explanation round}, in which the student talks through the posted solution to the problem found hardest. Each tutorial is scored 0 (absent), 1 (cannot explain own work), 2 (solid) or 3 (insightful).
+
+\section{Teaching Method}
+
+Every lecture, recitation, problem set and tutorial is designed by cognitive load theory (Sweller), as summarised by Scott H.~Young. Working memory is small for new material and effectively unlimited for mastered material, and physics has high \emph{element interactivity}, so the aim is to keep the load of each class in the productive zone. The full method is in \texttt{docs/teaching-method.md}; in summary:
+
+\begin{center}\small
+\rowcolors{2}{white}{rowgrey}
+\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}p{0.3\linewidth}X}
+\toprule
+\sffamily Principle & \sffamily What happens in class\\ \midrule
+Worked-example effect & Every new method is first shown as a fully worked example, then practised: example, completion problem, full problem, mixed problems.\\
+Expertise reversal & Support fades topic by topic; once a method is mastered, the student solves first and sees no example.\\
+Prerequisite fluency & Each lecture opens with a five-minute warm-up on the components it depends on; gaps get a short fluency drill.\\
+Split attention and extraneous load & Integrated notes (labels on figures, equations beside their figures), one primary text, one weekly release.\\
+Goal-free effect & New topics may open with ``find everything you can'' warm-ups where the possible moves are few.\\
+Germane load & Weekly quizzes (retrieval), self-explanation in tutorials, and interleaved problems once a topic is secure.\\
+Load check & After each lecture and problem set the student rates mental effort from 1 to 9; the rating, with quiz scores, sets the pace.\\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+Problem sets have up to three parts: \textbf{A}~example pairs (each problem with a solved twin, early in a topic), \textbf{B}~core problems, and \textbf{C}~mixed and stretch problems (once the topic is secure). The share of Part~A shrinks as each course and the programme go on. The method changes no grading weights.
 
 \section{Examinations and Progression}
 
@@ -477,7 +499,7 @@ A First requires the Senior Thesis to be graded A$-$ or better; otherwise the cl
 
 \subsubsection{Honour code} Caltech's Honor Code reads: \emph{``No member of the Caltech community shall take unfair advantage of any other member of the Caltech community.''} Here the only person who can be cheated is the student. Accordingly:
 \begin{enumerate}[label=(\alph*)]
-\item for problem sets, the textbook, lecture notes and the tutor may be used for hints, but not solution manuals, answer websites or another AI's answers to the specific problem before submission;
+\item for problem sets, the textbook, lecture notes and the tutor may be used for hints, but not solution manuals, answer websites or another AI's answers to the specific problem before submission (the solved twins in a set's Part~A are part of the set and may be used);
 \item examinations are closed book apart from the stated formula sheet, use a simple scientific calculator and no internet, are timed, and have their start and end times written on the first page;
 \item laboratory data must be real; a well-analysed failure scores better than a fabricated success;
 \item papers and the thesis must be the student's own writing, with sources quoted and cited.

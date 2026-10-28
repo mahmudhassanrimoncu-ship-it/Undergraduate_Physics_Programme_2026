@@ -34,6 +34,7 @@ The full map, the prerequisite graph and the course-by-course mapping to each un
 |---|---|
 | [docs/Physics-Programme-Booklet.pdf](docs/Physics-Programme-Booklet.pdf) | **Printable information booklet** (93 pages, A4, print double-sided): rules, outcomes, curriculum at a glance, every course outline, options and electives, and the class routine. Rebuilt from [tools/booklet/](tools/booklet/) |
 | [docs/handbook.md](docs/handbook.md) | **Programme Handbook.** How the programme runs: calendar, weekly rhythm, roles, tutorials, submissions, honour code, progression rules |
+| [docs/teaching-method.md](docs/teaching-method.md) | **Teaching method.** How lectures, recitations, problem sets and tutorials are designed to manage cognitive load: worked examples first, fading support, effort ratings |
 | [docs/curriculum-map.md](docs/curriculum-map.md) | Semester-by-semester plan, prerequisite graph, university equivalences, major options and electives |
 | [docs/assessment-and-grading.md](docs/assessment-and-grading.md) | How each course is passed: weightings, grade scale, GPA, resits, annual exams, viva, thesis, degree classification |
 | [docs/library.md](docs/library.md) | The librarian's list: textbooks, lecture series, problem books, videos and websites, by subject |

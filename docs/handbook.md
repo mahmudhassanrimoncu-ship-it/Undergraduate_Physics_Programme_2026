@@ -80,6 +80,8 @@ You have chosen 18–22 hours per week, which means three courses per semester a
 
 **Timetable.** Every term has a fixed weekly class timetable, like a university's, in [semesters/timetables/](../semesters/timetables/). Each theory course has 2 × 80-minute lectures and 1 recitation (problem class) per week. CMP courses have 1 lecture and 1 lab. Tutorials and office hours are at the weekend. You can attend a slot live with the instructor at its scheduled time or later that day or week (see [lectures/README.md](../lectures/README.md)). The Orientation Term and S1 timetables are ready. The timetable for each later semester is issued at least **two weeks before** it starts, so it can fit around your CSE timetable for that term.
 
+**Teaching method.** Every lecture, recitation, problem set and tutorial follows the [Teaching Method](teaching-method.md), which is based on cognitive load theory. In short: worked examples come before problems, and support fades as you master each topic. Each lecture opens with a prerequisite warm-up, problem sets move from example pairs to mixed practice, and a 1–9 effort rating after each lecture keeps the load in the productive zone.
+
 A typical week for one **theory course**:
 
 | Activity | Time |
@@ -138,13 +140,14 @@ Tutorials follow the Oxford model.
 
 - After each problem set is graded, the tutor picks one or two problems and asks you to **explain your reasoning**. This is done in writing or by voice note, in the thread.
 - Follow-up questions extend the problem: "what changes if…", "estimate…", "why is this sign negative?".
+- **Self-explanation round.** You also talk through the posted solution to the problem you found hardest: why each step is taken, and what would change if the set-up changed (see the [Teaching Method §6](teaching-method.md#6-tutorials)).
 - Graded 0–3 per tutorial (0 = absent, 1 = cannot explain own work, 2 = solid, 3 = insightful). The total forms the **tutorial** part of the course grade.
 
 ## 9. Honour code
 
 Caltech's Honor Code is: *"No member of the Caltech community shall take unfair advantage of any other member of the Caltech community."* Here the only person you can cheat is yourself. The rules are:
 
-1. **Problem sets.** You may use the textbook, lecture notes and the tutor for **hints**. Don't look at solution manuals, Chegg-style sites, or another AI's answers to the specific problem before you submit. After submitting, use anything you like.
+1. **Problem sets.** You may use the textbook, lecture notes and the tutor for **hints**. Don't look at solution manuals, Chegg-style sites, or another AI's answers to the specific problem before you submit. The solved "twin" examples printed in a problem set's Part A are part of the set and may be used. After submitting, use anything you like.
 2. **Exams** are **closed book**. The only exception is the formula sheet stated on the exam, usually one handwritten A4 sheet (both sides for a final), as at MIT. Use a simple scientific calculator and no internet. Set a timer and stop when it ends. Write the start and end time on the first page.
 3. **Lab data must be real.** If an experiment fails, report that it failed and why. A well-analysed failure scores better than fabricated success.
 4. **Writing must be your own.** In the Junior Papers and thesis, quote and cite sources. The tutor can comment on drafts but does not write your text.
@@ -174,3 +177,4 @@ The full rules are in [assessment-and-grading.md](assessment-and-grading.md). In
 | 2026-10-20 | v1.0 created. Load fixed at 18–22 h/week (3 courses per semester) by Rimon's choice |
 | 2026-10-20 | v1.1: added weekly class timetables (Orientation and S1, Bangladesh time) and live lectures on request; repo default branch is now `main` |
 | 2026-10-20 | v1.2: added the printable programme booklet ([Physics-Programme-Booklet.pdf](Physics-Programme-Booklet.pdf)), laid out like the CU CSE information booklet, with course learning outcomes (CLOs) mapped to programme learning outcomes (PLOs) |
+| 2026-10-28 | v1.3: adopted the [Teaching Method](teaching-method.md), based on cognitive load theory (Scott H. Young's essay, at Rimon's request): worked examples before problems, fading support, prerequisite warm-ups, a self-explanation round in tutorials, and a 1–9 effort rating after each lecture. Grading weights unchanged |
