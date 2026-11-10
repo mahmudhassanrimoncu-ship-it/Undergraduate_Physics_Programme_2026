@@ -1,6 +1,6 @@
-# Semester 12: Autumn 2030 (Mon 2 Sep – Sun 22 Dec 2030)
+# Semester 12: Autumn 2030 (Mon 30 Sep 2030 – Sun 19 Jan 2031)
 
-**Year 4, Specialisation and Research.** Midterms in week 7 (14–20 Oct). Finals in week 15 (9–15 Dec). **Finals (Part C), viva and thesis defence in week 16 (16–22 Dec).**
+**Year 4, Specialisation and Research.** Midterms in week 7 (11–17 Nov). Finals in week 15 (6–12 Jan). **Finals (Part C), viva and thesis defence in week 16 (13–19 Jan).**
 
 | Code | Course | Credits | Type |
 |---|---|---|---|

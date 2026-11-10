@@ -14,7 +14,7 @@
 
 Credits: every course is 4 credits.
 
-### Orientation Term 0 (2 Nov – 20 Dec 2026, ungraded)
+### Orientation Term 0 (7 Dec 2026 – 24 Jan 2027, ungraded)
 - **ORI 000 Orientation and Bridging.** Diagnostics in A-level physics and maths. Advanced Standing Exams for MTH 101–104 and CMP 101. Bridging maths. Study skills (Pólya's *How to Solve It*). LaTeX and Git setup. Home-lab kit.
 
 ### Year 1: Foundations (Oxford Prelims; MIT GIRs; Harvard 15a/b/c)

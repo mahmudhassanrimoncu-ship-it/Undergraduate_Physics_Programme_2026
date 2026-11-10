@@ -1,6 +1,6 @@
-# Semester 9: Autumn 2029 (Mon 27 Aug – Sun 16 Dec 2029)
+# Semester 9: Autumn 2029 (Mon 24 Sep 2029 – Sun 13 Jan 2030)
 
-**Year 3, Core Physics II and Independent Work.** Midterms in week 7 (8–14 Oct). Finals in week 15 (3–9 Dec). **Part B and viva in week 16 (10–16 Dec).** Year 4 major options must be chosen by week 12.
+**Year 3, Core Physics II and Independent Work.** Midterms in week 7 (5–11 Nov). Finals in week 15 (31 Dec–6 Jan). **Part B and viva in week 16 (7–13 Jan).** Year 4 major options must be chosen by week 12.
 
 | Code | Course | Credits | Type |
 |---|---|---|---|
@@ -80,7 +80,7 @@
 
 ## EXM 300: Part B (Annual Examination III)
 
-**Week 16 (10–16 Dec 2029).** Modelled on Oxford's Part B.
+**Week 16 (7–13 Jan 2030).** Modelled on Oxford's Part B.
 
 | Paper | Content | Time |
 |---|---|---|

@@ -27,14 +27,14 @@ KIND_LABEL = {"theory": "Theory", "lab": "Laboratory", "comp": "Computational",
 # ---------------------------------------------------------------- annual exams
 ANNUAL = {
     "Third Semester": dict(
-        code="EXM 100", title="Prelims (Annual Examination I)", when="Week 16 (13--19 Dec 2027)",
+        code="EXM 100", title="Prelims (Annual Examination I)", when="Week 16 (10--16 Jan 2028)",
         model="Oxford Prelims (CP1--CP4) and the Dhaka viva voce PV~102.",
         papers=[("Paper 1: Physics", "PHY 101, PHY 102, PHY 103. Section A: 10 short compulsory questions; Section B: 3 long questions from 6.", "3 h"),
                 ("Paper 2: Mathematical Methods", "MTH 101--104. Same format.", "3 h"),
                 ("Viva voce", "The year's physics and the student's own laboratory and computing work.", "30 min")],
         progress="Year~2"),
     "Sixth Semester": dict(
-        code="EXM 200", title="Part A (Annual Examination II)", when="Week 16 (11--17 Dec 2028)",
+        code="EXM 200", title="Part A (Annual Examination II)", when="Week 16 (8--14 Jan 2029)",
         model="Oxford Part A.",
         papers=[("A1: Quantum Physics and Relativity", "PHY 201, PHY 203, PHY 206.", "3 h"),
                 ("A2: Thermal Physics, Classical Mechanics and Electrodynamics", "PHY 202, PHY 204, PHY 205.", "3 h"),
@@ -42,7 +42,7 @@ ANNUAL = {
                 ("Viva voce", "The year's physics and the LAB 201 project.", "30 min")],
         progress="Year~3"),
     "Ninth Semester": dict(
-        code="EXM 300", title="Part B (Annual Examination III)", when="Week 16 (10--16 Dec 2029)",
+        code="EXM 300", title="Part B (Annual Examination III)", when="Week 16 (7--13 Jan 2030)",
         model="Oxford Part B.",
         papers=[("B1: Quantum, Atomic and Condensed Matter", "PHY 301, PHY 303, PHY 304.", "3 h"),
                 ("B2: Statistical, Nuclear and Particle, Nonlinear Physics", "PHY 302, PHY 305, PHY 306.", "3 h"),
@@ -50,7 +50,7 @@ ANNUAL = {
                 ("Viva voce", "The year's physics and both Junior Papers.", "45 min")],
         progress="Year~4"),
     "Twelfth Semester": dict(
-        code="EXM 400", title="Finals (Part C, Annual Examination IV)", when="Week 16 (16--22 Dec 2030)",
+        code="EXM 400", title="Finals (Part C, Annual Examination IV)", when="Week 16 (13--19 Jan 2031)",
         model="Oxford Part C and the Princeton departmental examination.",
         papers=[("C1: General Physics", "Synoptic questions across all four years, at the level of a PhD qualifying examination.", "3 h"),
                 ("C2: Major Option I", "OPT 4x1.", "2 h"),
@@ -250,7 +250,7 @@ def cover():
 \vspace{8mm}
 {\Large B.S.\ (Honours) Programme\par in\par Physics\par}
 \vspace{6mm}
-{\large Self-Directed Edition\par Session 2026--2030\par}
+{\large Self-Directed Edition\par Session 2026--2031\par}
 \vspace{10mm}
 \rule{0.55\linewidth}{0.6pt}\par
 \vspace{6mm}
@@ -260,7 +260,7 @@ def cover():
 \vfill
 {\normalsize Student: \textbf{Rimon}\qquad Instructor, tutor and examiner: \textbf{Claude}\par}
 \vspace{4mm}
-{\small Version 1.3 \quad October 2026\par}
+{\small Version 1.4 \quad November 2026\par}
 \vspace{10mm}
 \pgfornament[width=11cm,color=cublue,symmetry=h]{88}\par
 \end{titlepage}
@@ -325,7 +325,7 @@ These are the rules of the department. Where a course syllabus says something di
 
 \section{Programme's Course System}
 
-\subsubsection{Duration and semesters} The programme runs for four academic years. Each year has three semesters of 16 weeks: Spring (January--April), Summer (May--August) and Autumn (late August--December). A seven-week, ungraded Orientation Term precedes the first semester.
+\subsubsection{Duration and semesters} The programme runs for four academic years. Each year has three semesters of 16 weeks: Spring (February--May), Summer (June--September) and Autumn (late September--mid January). A seven-week, ungraded Orientation Term precedes the first semester.
 
 \subsubsection{Load} Three courses are taken each semester, at about 6--7 hours each, for a total of 18--22 hours a week. Some weeks before examinations will reach about 25 hours.
 
@@ -516,19 +516,19 @@ A breach scores zero on that item and is noted on the transcript.
 
 def calendar_table():
     rows = [
-        ("Orientation Term", "Mon 2 Nov 2026", "--", "--", "Sun 20 Dec 2026"),
-        ("1 Spring 2027", "Mon 4 Jan 2027", "15 Feb", "12 Apr", "Sun 25 Apr 2027"),
-        ("2 Summer 2027", "Mon 3 May 2027", "14 Jun", "9 Aug", "Sun 22 Aug 2027"),
-        ("3 Autumn 2027", "Mon 30 Aug 2027", "11 Oct", "6 Dec", "Sun 19 Dec 2027 (Prelims)"),
-        ("4 Spring 2028", "Mon 3 Jan 2028", "14 Feb", "10 Apr", "Sun 23 Apr 2028"),
-        ("5 Summer 2028", "Mon 1 May 2028", "12 Jun", "7 Aug", "Sun 20 Aug 2028"),
-        ("6 Autumn 2028", "Mon 28 Aug 2028", "9 Oct", "4 Dec", "Sun 17 Dec 2028 (Part A)"),
-        ("7 Spring 2029", "Mon 1 Jan 2029", "12 Feb", "9 Apr", "Sun 22 Apr 2029"),
-        ("8 Summer 2029", "Mon 30 Apr 2029", "11 Jun", "6 Aug", "Sun 19 Aug 2029"),
-        ("9 Autumn 2029", "Mon 27 Aug 2029", "8 Oct", "3 Dec", "Sun 16 Dec 2029 (Part B)"),
-        ("10 Spring 2030", "Mon 7 Jan 2030", "18 Feb", "15 Apr", "Sun 28 Apr 2030"),
-        ("11 Summer 2030", "Mon 6 May 2030", "17 Jun", "12 Aug", "Sun 25 Aug 2030"),
-        ("12 Autumn 2030", "Mon 2 Sep 2030", "14 Oct", "9 Dec", "Sun 22 Dec 2030 (Finals)"),
+        ("Orientation Term", "Mon 7 Dec 2026", "--", "--", "Sun 24 Jan 2027"),
+        ("1 Spring 2027", "Mon 1 Feb 2027", "15 Mar", "10 May", "Sun 23 May 2027"),
+        ("2 Summer 2027", "Mon 31 May 2027", "12 Jul", "6 Sep", "Sun 19 Sep 2027"),
+        ("3 Autumn 2027", "Mon 27 Sep 2027", "8 Nov", "3 Jan", "Sun 16 Jan 2028 (Prelims)"),
+        ("4 Spring 2028", "Mon 31 Jan 2028", "13 Mar", "8 May", "Sun 21 May 2028"),
+        ("5 Summer 2028", "Mon 29 May 2028", "10 Jul", "4 Sep", "Sun 17 Sep 2028"),
+        ("6 Autumn 2028", "Mon 25 Sep 2028", "6 Nov", "1 Jan", "Sun 14 Jan 2029 (Part A)"),
+        ("7 Spring 2029", "Mon 29 Jan 2029", "12 Mar", "7 May", "Sun 20 May 2029"),
+        ("8 Summer 2029", "Mon 28 May 2029", "9 Jul", "3 Sep", "Sun 16 Sep 2029"),
+        ("9 Autumn 2029", "Mon 24 Sep 2029", "5 Nov", "31 Dec", "Sun 13 Jan 2030 (Part B)"),
+        ("10 Spring 2030", "Mon 4 Feb 2030", "18 Mar", "13 May", "Sun 26 May 2030"),
+        ("11 Summer 2030", "Mon 3 Jun 2030", "15 Jul", "9 Sep", "Sun 22 Sep 2030"),
+        ("12 Autumn 2030", "Mon 30 Sep 2030", "11 Nov", "6 Jan", "Sun 19 Jan 2031 (Finals)"),
     ]
     out = [r"\begin{center}\small", r"\rowcolors{2}{white}{rowgrey}",
            r"\begin{tabular}{lllll}", r"\toprule",
@@ -598,7 +598,7 @@ Every course page in Chapter~\ref{ch:courses} lists its course learning outcomes
 
 Each semester carries three 4-credit courses; the Autumn semesters of each year also carry the 4-credit annual examination.
 """)
-    for name, dates, courses in [("Orientation Term", "2 Nov -- 20 Dec 2026 (7 weeks, ungraded)", [ORI])] + SEMESTERS:
+    for name, dates, courses in [("Orientation Term", "7 Dec 2026 -- 24 Jan 2027 (7 weeks, ungraded)", [ORI])] + SEMESTERS:
         out.append(semester_table(name, dates, courses))
     out.append(credit_distribution())
     return "\n".join(out)
@@ -740,7 +740,7 @@ def courses_chapter():
 Detailed outlines of all the courses belonging to the different semesters are produced in the following. Week numbers refer to the 16-week semester of Section~2.2; in theory and computational courses, \textsc{section a} covers the material examined at the midterm and \textsc{section b} the remainder.
 
 \section{Orientation Term}
-""" + semester_table("Orientation Term", "2 Nov -- 20 Dec 2026", [ORI], tag=False)]
+""" + semester_table("Orientation Term", "7 Dec 2026 -- 24 Jan 2027", [ORI], tag=False)]
     o.append(course(ORI))
     for i, (name, dates, cs) in enumerate(SEMESTERS):
         o.append(r"\clearpage" "\n" r"\section{%s}" % name)
@@ -801,7 +801,7 @@ Every term has a fixed weekly class routine, like a university's. A slot is when
 
 Each theory course has two 80-minute lectures and a one-hour recitation (which opens with the weekly quiz); each computational course has a lecture and a laboratory. Tutorials and office hours are on Saturday afternoon, problem-set blocks on Friday and Saturday mornings, and problem sets are due on Sunday at 23:59.
 
-\section{Orientation Term (2 November -- 20 December 2026)}
+\section{Orientation Term (7 December 2026 -- 24 January 2027)}
 
 {\small
 \rowcolors{2}{white}{rowgrey}
@@ -872,7 +872,7 @@ Weekly totals: lectures, recitations and laboratories 10~h; tutorials and office
     o.append(r"""\bottomrule
 \end{xltabular}}
 
-\subsubsection{Ramadan and Eid} Ramadan 2027 is expected to run from about 8 February to 9 March, with Eid al-Fitr around 10 March, subject to the moon sighting. If needed, evening slots can move to 21:30--23:30 after tarawih, or a one-week Eid pause can be taken in week~10. Nothing changes until the student asks.
+\subsubsection{Ramadan and Eid} Ramadan 2027 is expected to run from about 8 February to 9 March (weeks 2--6), with Eid al-Fitr around 10 March (week~6), subject to the moon sighting. If needed, evening slots can move to 21:30--23:30 after tarawih, or a one-week Eid pause can be taken in week~6, which moves the rest of the semester one week later. Nothing changes until the student asks.
 
 \subsubsection{Clashes} If the CSE timetable clashes, the slots are moved but the weekly structure stays the same.
 """)

@@ -96,7 +96,7 @@ The ratings are kept per course in the gradebook notes and summarised in the Sem
 
 Because physics is high in element interactivity, weak components cost the most. Three things guard against this:
 
-- The **Orientation Term** diagnostics and bridging lectures (Nov–Dec 2026) find gaps before Semester 1.
+- The **Orientation Term** diagnostics and bridging lectures (7 Dec 2026 – 24 Jan 2027) find gaps before Semester 1.
 - Each lecture's **warm-up** and each week's **quiz** keep earlier components fresh.
 - When a gap shows up, you get a short **fluency drill**: many quick, easy problems on the single component until it is automatic. Time spent there is repaid in every later topic.
 

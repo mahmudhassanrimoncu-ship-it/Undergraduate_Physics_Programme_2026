@@ -1,6 +1,6 @@
-# Semester 8: Summer 2029 (Mon 30 Apr – Sun 19 Aug 2029)
+# Semester 8: Summer 2029 (Mon 28 May – Sun 16 Sep 2029)
 
-**Year 3, Core Physics II and Independent Work.** Midterms in week 7 (11–17 Jun). Finals in week 15 (6–12 Aug).
+**Year 3, Core Physics II and Independent Work.** Midterms in week 7 (9–15 Jul). Finals in week 15 (3–9 Sep).
 
 | Code | Course | Credits | Type |
 |---|---|---|---|

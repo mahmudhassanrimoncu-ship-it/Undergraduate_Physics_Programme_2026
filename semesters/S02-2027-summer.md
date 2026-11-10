@@ -1,6 +1,6 @@
-# Semester 2: Summer 2027 (Mon 3 May – Sun 22 Aug 2027)
+# Semester 2: Summer 2027 (Mon 31 May – Sun 19 Sep 2027)
 
-**Year 1, Foundations.** Midterms in week 7 (14–20 Jun). Revision in week 14 (2–8 Aug). Finals in week 15 (9–15 Aug).
+**Year 1, Foundations.** Midterms in week 7 (12–18 Jul). Revision in week 14 (30 Aug–5 Sep). Finals in week 15 (6–12 Sep).
 
 | Code | Course | Credits | Type |
 |---|---|---|---|

@@ -323,7 +323,7 @@ CMP201 = dict(
 )
 
 SEMESTERS_Y2 = [
-    ("Fourth Semester", "Spring 2028 (3 Jan -- 23 Apr 2028)", [PHY201, PHY202, PHY203]),
-    ("Fifth Semester", "Summer 2028 (1 May -- 20 Aug 2028)", [PHY204, MTH201, LAB201]),
-    ("Sixth Semester", "Autumn 2028 (28 Aug -- 17 Dec 2028)", [PHY205, PHY206, CMP201]),
+    ("Fourth Semester", "Spring 2028 (31 Jan -- 21 May 2028)", [PHY201, PHY202, PHY203]),
+    ("Fifth Semester", "Summer 2028 (29 May -- 17 Sep 2028)", [PHY204, MTH201, LAB201]),
+    ("Sixth Semester", "Autumn 2028 (25 Sep 2028 -- 14 Jan 2029)", [PHY205, PHY206, CMP201]),
 ]

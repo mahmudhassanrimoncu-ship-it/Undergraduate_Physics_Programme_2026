@@ -1,6 +1,6 @@
-# Semester 6: Autumn 2028 (Mon 28 Aug – Sun 17 Dec 2028)
+# Semester 6: Autumn 2028 (Mon 25 Sep 2028 – Sun 14 Jan 2029)
 
-**Year 2, Core Physics I.** Midterms in week 7 (9–15 Oct). Finals in week 15 (4–10 Dec). **Part A and viva in week 16 (11–17 Dec).**
+**Year 2, Core Physics I.** Midterms in week 7 (6–12 Nov). Finals in week 15 (1–7 Jan). **Part A and viva in week 16 (8–14 Jan).**
 
 | Code | Course | Credits | Type |
 |---|---|---|---|
@@ -87,7 +87,7 @@
 
 ## EXM 200: Part A (Annual Examination II)
 
-**Week 16 (11–17 Dec 2028).** Modelled on Oxford's Part A.
+**Week 16 (8–14 Jan 2029).** Modelled on Oxford's Part A.
 
 | Paper | Content | Time |
 |---|---|---|

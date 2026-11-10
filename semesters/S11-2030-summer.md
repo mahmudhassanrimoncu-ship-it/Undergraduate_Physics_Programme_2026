@@ -1,6 +1,6 @@
-# Semester 11: Summer 2030 (Mon 6 May – Sun 25 Aug 2030)
+# Semester 11: Summer 2030 (Mon 3 Jun – Sun 22 Sep 2030)
 
-**Year 4, Specialisation and Research.** Midterms in week 7 (17–23 Jun). Finals in week 15 (12–18 Aug).
+**Year 4, Specialisation and Research.** Midterms in week 7 (15–21 Jul). Finals in week 15 (9–15 Sep).
 
 | Code | Course | Credits | Type |
 |---|---|---|---|

@@ -1,6 +1,6 @@
-# Semester 3: Autumn 2027 (Mon 30 Aug – Sun 19 Dec 2027)
+# Semester 3: Autumn 2027 (Mon 27 Sep 2027 – Sun 16 Jan 2028)
 
-**Year 1, Foundations.** Midterms in week 7 (11–17 Oct). Revision in week 14 (29 Nov – 5 Dec). Finals in week 15 (6–12 Dec). **Prelims and viva in week 16 (13–19 Dec).**
+**Year 1, Foundations.** Midterms in week 7 (8–14 Nov). Revision in week 14 (27 Dec – 2 Jan). Finals in week 15 (3–9 Jan). **Prelims and viva in week 16 (10–16 Jan).**
 
 | Code | Course | Credits | Type |
 |---|---|---|---|
@@ -106,7 +106,7 @@
 
 ## EXM 100: Prelims (Annual Examination I)
 
-**Week 16 (13–19 Dec 2027).** The format follows the Oxford Prelims (CP1–CP4) and the Dhaka viva PV 102.
+**Week 16 (10–16 Jan 2028).** The format follows the Oxford Prelims (CP1–CP4) and the Dhaka viva PV 102.
 
 | Paper | Content | Time |
 |---|---|---|

@@ -1,4 +1,6 @@
-# Orientation Term 0: Mon 2 Nov – Sun 20 Dec 2026
+# Orientation Term 0: Mon 7 Dec 2026 – Sun 24 Jan 2027
+
+> **Postponed.** This term was due to start on Mon 2 Nov 2026. At Rimon's request it moved five weeks later, to Mon 7 Dec 2026, because of CSE exams, and every later term moved four weeks (changed 10 Nov 2026; see the [Handbook changelog](../docs/handbook.md#12-changelog)).
 
 **ORI 000 Orientation and Bridging.** Ungraded, required. About 12–15 h/week.
 
@@ -13,13 +15,13 @@ This term plays the role of a university's orientation week, placement exams, an
 
 | Week | Dates | Work |
 |---|---|---|
-| 1 | 2–8 Nov | **Diagnostic D1: A-level physics** (2 h; mechanics, electricity, waves, thermal, modern). **Diagnostic D2: Mathematics** (2 h; algebra, trigonometry, functions, differentiation, integration, vectors, complex numbers). Both are graded for information only. Read Handbook §1–11. |
-| 2 | 9–15 Nov | **Advanced Standing Exams (optional), 2 h each:** ASE-MTH101 (single-variable calculus and series), ASE-MTH102 (multivariable/vector calculus), ASE-MTH103 (linear algebra), ASE-MTH104 (ODEs), ASE-CMP101 (Python: a take-home coding task). Sit only the ones whose content you think your CSE courses already covered. ≥ 70% = exemption. |
-| 3 | 16–22 Nov | **Placement meeting.** You get a written placement report with exemptions, gaps and a bridging plan. Tool setup: Git workflow for this repo, LaTeX (Overleaf) or Markdown + LaTeX, Python (Anaconda or uv, plus Jupyter), and phyphox on your phone. |
-| 4 | 23–29 Nov | **Bridging block 1**, targeted at gaps found by D1/D2. Typical topics: trigonometric identities, exponentials and logs, differentiation and integration techniques, vectors and the dot and cross product. Read Pólya, *How to Solve It*, Part I. |
-| 5 | 30 Nov–6 Dec | **Bridging block 2**: physics problem-solving method on A-level-plus problems (Morin, *Problems and Solutions in Introductory Mechanics*, ch. 1–2). The habits trained are diagrams, symbols before numbers, units, and limiting cases. Order books and the home-lab kit (see the [Library](../docs/library.md)). |
-| 6 | 7–13 Dec | **Practice week.** A full mock S1 week: watch MIT 8.01SC lectures 1–2, read Kleppner & Kolenkow ch. 1, and do a mock problem set graded with the real rubric. You also have your first tutorial, so you see how the format works. |
-| 7 | 14–20 Dec | **Readiness check** (1 h, ungraded) and the S1 syllabus walk-through. Break starts 21 Dec. **S1 begins Mon 4 Jan 2027.** |
+| 1 | 7–13 Dec | **Diagnostic D1: A-level physics** (2 h; mechanics, electricity, waves, thermal, modern). **Diagnostic D2: Mathematics** (2 h; algebra, trigonometry, functions, differentiation, integration, vectors, complex numbers). Both are graded for information only. Read Handbook §1–11. |
+| 2 | 14–20 Dec | **Advanced Standing Exams (optional), 2 h each:** ASE-MTH101 (single-variable calculus and series), ASE-MTH102 (multivariable/vector calculus), ASE-MTH103 (linear algebra), ASE-MTH104 (ODEs), ASE-CMP101 (Python: a take-home coding task). Sit only the ones whose content you think your CSE courses already covered. ≥ 70% = exemption. |
+| 3 | 21–27 Dec | **Placement meeting.** You get a written placement report with exemptions, gaps and a bridging plan. Tool setup: Git workflow for this repo, LaTeX (Overleaf) or Markdown + LaTeX, Python (Anaconda or uv, plus Jupyter), and phyphox on your phone. |
+| 4 | 28 Dec–3 Jan | **Bridging block 1**, targeted at gaps found by D1/D2. Typical topics: trigonometric identities, exponentials and logs, differentiation and integration techniques, vectors and the dot and cross product. Read Pólya, *How to Solve It*, Part I. |
+| 5 | 4–10 Jan | **Bridging block 2**: physics problem-solving method on A-level-plus problems (Morin, *Problems and Solutions in Introductory Mechanics*, ch. 1–2). The habits trained are diagrams, symbols before numbers, units, and limiting cases. Order books and the home-lab kit (see the [Library](../docs/library.md)). |
+| 6 | 11–17 Jan | **Practice week.** A full mock S1 week: watch MIT 8.01SC lectures 1–2, read Kleppner & Kolenkow ch. 1, and do a mock problem set graded with the real rubric. You also have your first tutorial, so you see how the format works. |
+| 7 | 18–24 Jan | **Readiness check** (1 h, ungraded) and the S1 syllabus walk-through. Break week 25–31 Jan. **S1 begins Mon 1 Feb 2027.** |
 
 ## Outputs
 

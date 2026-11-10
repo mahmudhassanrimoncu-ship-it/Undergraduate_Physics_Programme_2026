@@ -56,21 +56,21 @@ Every semester is **16 weeks**:
 
 | Term | Teaching starts | Midterm week | Finals week | Ends |
 |---|---|---|---|---|
-| **Orientation Term 0** | Mon 2 Nov 2026 | – | Diagnostics in week 1 | Sun 20 Dec 2026 |
-| **S1** Spring 2027 | Mon 4 Jan 2027 | 15 Feb | 12 Apr | Sun 25 Apr 2027 |
-| **S2** Summer 2027 | Mon 3 May 2027 | 14 Jun | 9 Aug | Sun 22 Aug 2027 |
-| **S3** Autumn 2027 | Mon 30 Aug 2027 | 11 Oct | 6 Dec | Sun 19 Dec 2027 (Prelims in week 16) |
-| **S4** Spring 2028 | Mon 3 Jan 2028 | 14 Feb | 10 Apr | Sun 23 Apr 2028 |
-| **S5** Summer 2028 | Mon 1 May 2028 | 12 Jun | 7 Aug | Sun 20 Aug 2028 |
-| **S6** Autumn 2028 | Mon 28 Aug 2028 | 9 Oct | 4 Dec | Sun 17 Dec 2028 (Part A in week 16) |
-| **S7** Spring 2029 | Mon 1 Jan 2029 | 12 Feb | 9 Apr | Sun 22 Apr 2029 |
-| **S8** Summer 2029 | Mon 30 Apr 2029 | 11 Jun | 6 Aug | Sun 19 Aug 2029 |
-| **S9** Autumn 2029 | Mon 27 Aug 2029 | 8 Oct | 3 Dec | Sun 16 Dec 2029 (Part B in week 16) |
-| **S10** Spring 2030 | Mon 7 Jan 2030 | 18 Feb | 15 Apr | Sun 28 Apr 2030 |
-| **S11** Summer 2030 | Mon 6 May 2030 | 17 Jun | 12 Aug | Sun 25 Aug 2030 |
-| **S12** Autumn 2030 | Mon 2 Sep 2030 | 14 Oct | 9 Dec | Sun 22 Dec 2030 (Finals and thesis defence) |
+| **Orientation Term 0** | Mon 7 Dec 2026 | – | Diagnostics in week 1 | Sun 24 Jan 2027 |
+| **S1** Spring 2027 | Mon 1 Feb 2027 | 15 Mar | 10 May | Sun 23 May 2027 |
+| **S2** Summer 2027 | Mon 31 May 2027 | 12 Jul | 6 Sep | Sun 19 Sep 2027 |
+| **S3** Autumn 2027 | Mon 27 Sep 2027 | 8 Nov | 3 Jan | Sun 16 Jan 2028 (Prelims in week 16) |
+| **S4** Spring 2028 | Mon 31 Jan 2028 | 13 Mar | 8 May | Sun 21 May 2028 |
+| **S5** Summer 2028 | Mon 29 May 2028 | 10 Jul | 4 Sep | Sun 17 Sep 2028 |
+| **S6** Autumn 2028 | Mon 25 Sep 2028 | 6 Nov | 1 Jan | Sun 14 Jan 2029 (Part A in week 16) |
+| **S7** Spring 2029 | Mon 29 Jan 2029 | 12 Mar | 7 May | Sun 20 May 2029 |
+| **S8** Summer 2029 | Mon 28 May 2029 | 9 Jul | 3 Sep | Sun 16 Sep 2029 |
+| **S9** Autumn 2029 | Mon 24 Sep 2029 | 5 Nov | 31 Dec | Sun 13 Jan 2030 (Part B in week 16) |
+| **S10** Spring 2030 | Mon 4 Feb 2030 | 18 Mar | 13 May | Sun 26 May 2030 |
+| **S11** Summer 2030 | Mon 3 Jun 2030 | 15 Jul | 9 Sep | Sun 22 Sep 2030 |
+| **S12** Autumn 2030 | Mon 30 Sep 2030 | 11 Nov | 6 Jan | Sun 19 Jan 2031 (Finals and thesis defence) |
 
-Between semesters there is a 1-week break (after Spring and Summer) and a 2-week break (after Autumn).
+The three terms are named Spring (February–May), Summer (June–September) and Autumn (late September to mid January), so each Autumn semester and its annual exam finish in January. Between semesters there is a 1-week break (after Spring and Summer) and a 2-week break (after Autumn).
 
 **Flexibility rule.** Your CSE degree comes first when its exams fall in the same weeks. You may **shift any semester by up to 2 weeks** with notice before Week 1, or **pause** a semester for up to 3 weeks mid-term (for example, CSE finals or Eid). The calendar is then re-issued. Every shift is logged in the changelog. This replaces a university's "leave of absence".
 
@@ -178,3 +178,4 @@ The full rules are in [assessment-and-grading.md](assessment-and-grading.md). In
 | 2026-10-20 | v1.1: added weekly class timetables (Orientation and S1, Bangladesh time) and live lectures on request; repo default branch is now `main` |
 | 2026-10-20 | v1.2: added the printable programme booklet ([Physics-Programme-Booklet.pdf](Physics-Programme-Booklet.pdf)), laid out like the CU CSE information booklet, with course learning outcomes (CLOs) mapped to programme learning outcomes (PLOs) |
 | 2026-10-28 | v1.3: adopted the [Teaching Method](teaching-method.md), based on cognitive load theory (Scott H. Young's essay, at Rimon's request): worked examples before problems, fading support, prerequisite warm-ups, a self-explanation round in tutorials, and a 1–9 effort rating after each lecture. Grading weights unchanged |
+| 2026-11-10 | v1.4: **calendar postponed** at Rimon's request because of CSE exams. The Orientation Term moved from Mon 2 Nov to **Mon 7 Dec 2026** (ends Sun 24 Jan 2027), Semester 1 moved from Mon 4 Jan to **Mon 1 Feb 2027**, and every later semester moved 4 weeks. The programme now ends on Sun 19 Jan 2031. Ramadan 2027 now falls in S1 weeks 2–6; the options in the S1 timetable still stand |

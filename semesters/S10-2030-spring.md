@@ -1,6 +1,6 @@
-# Semester 10: Spring 2030 (Mon 7 Jan – Sun 28 Apr 2030)
+# Semester 10: Spring 2030 (Mon 4 Feb – Sun 26 May 2030)
 
-**Year 4, Specialisation and Research.** Midterms in week 7 (18–24 Feb). Finals in week 15 (15–21 Apr). **Senior Thesis proposal due at the end of week 13.**
+**Year 4, Specialisation and Research.** Midterms in week 7 (18–24 Mar). Finals in week 15 (13–19 May). **Senior Thesis proposal due at the end of week 13.**
 
 | Code | Course | Credits | Type |
 |---|---|---|---|

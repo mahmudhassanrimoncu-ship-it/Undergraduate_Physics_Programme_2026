@@ -314,7 +314,7 @@ IND302 = dict(
 )
 
 SEMESTERS_Y3 = [
-    ("Seventh Semester", "Spring 2029 (1 Jan -- 22 Apr 2029)", [PHY301, PHY302, LAB301]),
-    ("Eighth Semester", "Summer 2029 (30 Apr -- 19 Aug 2029)", [PHY303, PHY304, IND301]),
-    ("Ninth Semester", "Autumn 2029 (27 Aug -- 16 Dec 2029)", [PHY305, PHY306, IND302]),
+    ("Seventh Semester", "Spring 2029 (29 Jan -- 20 May 2029)", [PHY301, PHY302, LAB301]),
+    ("Eighth Semester", "Summer 2029 (28 May -- 16 Sep 2029)", [PHY303, PHY304, IND301]),
+    ("Ninth Semester", "Autumn 2029 (24 Sep 2029 -- 13 Jan 2030)", [PHY305, PHY306, IND302]),
 ]

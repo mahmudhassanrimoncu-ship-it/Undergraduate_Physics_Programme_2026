@@ -1,10 +1,10 @@
 # Official Transcript
 
 **Student:** Rimon
-**Programme:** B.S. (Honours) in Physics, self-directed edition (2026–2030)
+**Programme:** B.S. (Honours) in Physics, self-directed edition (2026–2031)
 **Grading:** see [assessment-and-grading.md](../docs/assessment-and-grading.md)
 
-## Placement (Orientation Term 0, Nov–Dec 2026)
+## Placement (Orientation Term 0, 7 Dec 2026 – 24 Jan 2027)
 
 | Exam | Result | Outcome |
 |---|---|---|

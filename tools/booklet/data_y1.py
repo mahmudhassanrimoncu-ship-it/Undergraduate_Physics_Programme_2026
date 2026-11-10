@@ -353,7 +353,7 @@ MTH104 = dict(
 )
 
 SEMESTERS_Y1 = [
-    ("First Semester", "Spring 2027 (4 Jan -- 25 Apr 2027)", [PHY101, MTH101, CMP101]),
-    ("Second Semester", "Summer 2027 (3 May -- 22 Aug 2027)", [PHY102, MTH102, LAB101]),
-    ("Third Semester", "Autumn 2027 (30 Aug -- 19 Dec 2027)", [PHY103, MTH103, MTH104]),
+    ("First Semester", "Spring 2027 (1 Feb -- 23 May 2027)", [PHY101, MTH101, CMP101]),
+    ("Second Semester", "Summer 2027 (31 May -- 19 Sep 2027)", [PHY102, MTH102, LAB101]),
+    ("Third Semester", "Autumn 2027 (27 Sep 2027 -- 16 Jan 2028)", [PHY103, MTH103, MTH104]),
 ]

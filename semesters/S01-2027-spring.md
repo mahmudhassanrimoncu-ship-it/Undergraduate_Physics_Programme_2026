@@ -1,6 +1,6 @@
-# Semester 1: Spring 2027 (Mon 4 Jan – Sun 25 Apr 2027)
+# Semester 1: Spring 2027 (Mon 1 Feb – Sun 23 May 2027)
 
-**Year 1, Foundations.** Midterms in week 7 (15–21 Feb). Revision in week 14 (5–11 Apr). Finals in week 15 (12–18 Apr). Feedback and Semester Report in week 16.
+**Year 1, Foundations.** Midterms in week 7 (15–21 Mar). Revision in week 14 (3–9 May). Finals in week 15 (10–16 May). Feedback and Semester Report in week 16.
 
 | Code | Course | Credits | Type |
 |---|---|---|---|

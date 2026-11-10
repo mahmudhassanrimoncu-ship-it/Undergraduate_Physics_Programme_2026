@@ -1,6 +1,6 @@
-# Semester 7: Spring 2029 (Mon 1 Jan – Sun 22 Apr 2029)
+# Semester 7: Spring 2029 (Mon 29 Jan – Sun 20 May 2029)
 
-**Year 3, Core Physics II and Independent Work.** Midterms in week 7 (12–18 Feb). Finals in week 15 (9–15 Apr).
+**Year 3, Core Physics II and Independent Work.** Midterms in week 7 (12–18 Mar). Finals in week 15 (7–13 May).
 
 | Code | Course | Credits | Type |
 |---|---|---|---|

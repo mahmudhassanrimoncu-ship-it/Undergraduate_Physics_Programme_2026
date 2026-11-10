@@ -191,9 +191,9 @@ OPT2 = dict(code="OPT 4x2", title="Major Option II", kind="opt", hours="4 Hours/
 ELE2 = dict(code="ELE 4xx", title="Elective II", kind="opt", hours="4 Hours/Week")
 
 SEMESTERS_Y4 = [
-    ("Tenth Semester", "Spring 2030 (7 Jan -- 28 Apr 2030)", [PHY401, PHY402, LAB401]),
-    ("Eleventh Semester", "Summer 2030 (6 May -- 25 Aug 2030)", [OPT1, ELE1, THS401]),
-    ("Twelfth Semester", "Autumn 2030 (2 Sep -- 22 Dec 2030)", [OPT2, ELE2, THS402]),
+    ("Tenth Semester", "Spring 2030 (4 Feb -- 26 May 2030)", [PHY401, PHY402, LAB401]),
+    ("Eleventh Semester", "Summer 2030 (3 Jun -- 22 Sep 2030)", [OPT1, ELE1, THS401]),
+    ("Twelfth Semester", "Autumn 2030 (30 Sep 2030 -- 19 Jan 2031)", [OPT2, ELE2, THS402]),
 ]
 
 # Major options: (code, title, Oxford model, prerequisites, texts, topics)

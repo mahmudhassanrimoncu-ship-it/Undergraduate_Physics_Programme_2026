@@ -1,4 +1,4 @@
-# Undergraduate Physics Programme 2026–2030
+# Undergraduate Physics Programme 2026–2031
 
 A self-directed, four-year **B.S. (Honours) in Physics** for Rimon. It is built from the actual curricula of MIT, Harvard, Oxford, Princeton and Caltech, with the University of Dhaka (DU) as a regional reference. Like a real department, it has a calendar, course syllabi, prerequisites, problem sets, midterms and finals, annual comprehensive exams, a viva voce, a junior paper, a senior thesis, a transcript and a final degree classification.
 
@@ -10,7 +10,7 @@ A self-directed, four-year **B.S. (Honours) in Physics** for Rimon. It is built 
 | | |
 |---|---|
 | Length | 4 years, **12 semesters** (3 per year, 16 weeks each) plus a 7-week Orientation Term |
-| Dates | Orientation **2 Nov 2026**. Semester 1 starts **Mon 4 Jan 2027**. Final semester ends **22 Dec 2030** |
+| Dates | Orientation **Mon 7 Dec 2026** (postponed from 2 Nov for CSE exams). Semester 1 starts **Mon 1 Feb 2027**. Final semester ends **19 Jan 2031** |
 | Load | **3 courses per semester**, about **18–22 h/week** |
 | Courses | 36 courses × 4 credits, plus 4 annual exams × 4 credits = **160 credits** |
 | Grading | Letter grades on a 4.0 scale, semester GPA and CGPA, final degree class (First / 2:1 / 2:2 / Pass) |
@@ -18,9 +18,9 @@ A self-directed, four-year **B.S. (Honours) in Physics** for Rimon. It is built 
 
 ## The 12 semesters
 
-| Year | Spring (Jan–Apr) | Summer (May–Aug) | Autumn (Aug/Sep–Dec) |
+| Year | Spring (Feb–May) | Summer (Jun–Sep) | Autumn (late Sep–mid Jan) |
 |---|---|---|---|
-| **0** | | | **Orientation Term** (Nov–Dec 2026): diagnostics, bridging maths, setup |
+| **0** | | | **Orientation Term** (7 Dec 2026 – 24 Jan 2027): diagnostics, bridging maths, setup |
 | **1 Foundations** (2027) | **S1** PHY 101 Classical Mechanics I · MTH 101 Calculus for Physicists · CMP 101 Computational Physics I | **S2** PHY 102 Electricity & Magnetism I · MTH 102 Multivariable & Vector Calculus · LAB 101 Experimental Physics I | **S3** PHY 103 Vibrations, Waves & Optics · MTH 103 Linear Algebra · MTH 104 Differential Equations · *Prelims* |
 | **2 Core I** (2028) | **S4** PHY 201 Quantum Physics I · PHY 202 Thermal & Statistical Physics I · PHY 203 Special Relativity | **S5** PHY 204 Classical Mechanics II · MTH 201 Mathematical Methods · LAB 201 Electronics for Physicists | **S6** PHY 205 Electrodynamics · PHY 206 Quantum Physics II · CMP 201 Computational Physics II · *Part A* |
 | **3 Core II** (2029) | **S7** PHY 301 Quantum Physics III · PHY 302 Statistical Mechanics II · LAB 301 Advanced Laboratory I | **S8** PHY 303 Atomic, Molecular & Laser Physics · PHY 304 Condensed Matter Physics · IND 301 Junior Paper I | **S9** PHY 305 Nuclear & Particle Physics · PHY 306 Fluids, Nonlinear Dynamics & Complexity · IND 302 Junior Paper II & Scientific Communication · *Part B* |
@@ -49,5 +49,5 @@ The full map, the prerequisite graph and the course-by-course mapping to each un
 ## How to start
 
 1. Read the [Handbook](docs/handbook.md). It takes 20 minutes. For a printed copy of everything, use the [programme booklet PDF](docs/Physics-Programme-Booklet.pdf).
-2. Orientation Term starts **Mon 2 Nov 2026**. Its syllabus is [semesters/S00-orientation-2026.md](semesters/S00-orientation-2026.md) and its class timetable is [S00-orientation-timetable.md](semesters/timetables/S00-orientation-timetable.md). Week 1 is the diagnostic exams, which decide whether you can test out of any Year 1 maths or computing course.
+2. Orientation Term starts **Mon 7 Dec 2026**. Its syllabus is [semesters/S00-orientation-2026.md](semesters/S00-orientation-2026.md) and its class timetable is [S00-orientation-timetable.md](semesters/timetables/S00-orientation-timetable.md). Week 1 is the diagnostic exams, which decide whether you can test out of any Year 1 maths or computing course.
 3. Buy or borrow the Year 1 core texts and the home-lab kit (see the [Library](docs/library.md)).

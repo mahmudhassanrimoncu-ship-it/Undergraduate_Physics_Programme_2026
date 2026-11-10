@@ -1,6 +1,6 @@
-# Semester 5: Summer 2028 (Mon 1 May – Sun 20 Aug 2028)
+# Semester 5: Summer 2028 (Mon 29 May – Sun 17 Sep 2028)
 
-**Year 2, Core Physics I.** Midterms in week 7 (12–18 Jun). Finals in week 15 (7–13 Aug).
+**Year 2, Core Physics I.** Midterms in week 7 (10–16 Jul). Finals in week 15 (4–10 Sep).
 
 | Code | Course | Credits | Type |
 |---|---|---|---|

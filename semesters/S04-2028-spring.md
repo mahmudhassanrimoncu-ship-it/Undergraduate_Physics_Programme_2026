@@ -1,6 +1,6 @@
-# Semester 4: Spring 2028 (Mon 3 Jan – Sun 23 Apr 2028)
+# Semester 4: Spring 2028 (Mon 31 Jan – Sun 21 May 2028)
 
-**Year 2, Core Physics I.** Midterms in week 7 (14–20 Feb). Finals in week 15 (10–16 Apr).
+**Year 2, Core Physics I.** Midterms in week 7 (13–19 Mar). Finals in week 15 (8–14 May).
 
 | Code | Course | Credits | Type |
 |---|---|---|---|
