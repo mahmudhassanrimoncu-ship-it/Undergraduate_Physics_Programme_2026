@@ -45,6 +45,7 @@ The full map, the prerequisite graph and the course-by-course mapping to each un
 | [records/](records/) | Transcript and gradebook (filled in as grades are awarded) |
 | [templates/](templates/) | Templates for problem sets, lab reports and papers |
 | [work/](work/) | Rimon's submitted work, by semester and course |
+| [8-semester-version/](8-semester-version/) | **For comparison only:** the same degree laid out as 8 semesters (2 a year) instead of 12 terms, with its own calendar, semester files, S1 timetable and booklet PDF. Not the plan being followed |
 
 ## How to start
 
